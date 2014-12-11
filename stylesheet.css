@@ -163,13 +163,13 @@ TR.header {
 }
 
 TR.headerNavigation {
-  background: #bbc3d3;
+  background: #24D12F;
 }
 
 TD.headerNavigation {
   font-family: Verdana, Arial, sans-serif;
   font-size: 10px;
-  background: #bbc3d3;
+  background: #24D12F;
   color: #ffffff;
   font-weight : bold;
 }
